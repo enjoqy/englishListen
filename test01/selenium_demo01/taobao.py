@@ -62,8 +62,8 @@ class taobao_infos:
 
 if __name__ == "__main__":
     chromedriver_path = "H:\\ChromeDownloads\chromedriver_win32\chromedriver.exe"  # 改成你的chromedriver的完整路径地址
-    weibo_username = "gdlzhh321@163.com"  # 改成你的微博账号
-    weibo_password = "HuaiHao!321"  # 改成你的微博密码
+    weibo_username = "xxx"  # 改成你的微博账号
+    weibo_password = "xxxxx"  # 改成你的微博密码
 
     a = taobao_infos()
     a.login()  # 登录
